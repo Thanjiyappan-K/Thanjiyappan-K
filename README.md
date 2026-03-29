@@ -11,7 +11,7 @@ I’m passionate about designing solutions that bridge **real-world problems and
 ## 🔭 What I'm Currently Working On
 - 📊 **College Management System** – Scalable platform with role-based access & ML-powered performance predictions.  
 - ✍️ **Handwritten Text Extraction (OCR)** – Using **TrOCR + similarity detection** to process exam answer sheets and detect copied submissions.  
-- 🌱 Learning **Go** and **Scala** to expand my backend expertise (aligning with large-scale systems like Stripe uses).  
+- 🌱 Learning **java** to expand my backend expertise (aligning with large-scale systems like Stripe uses).  
 - ☁️ Exploring **Cloud Deployments (AWS, Docker)** to make my projects production-ready.  
 
 ---
@@ -25,7 +25,7 @@ I’m passionate about designing solutions that bridge **real-world problems and
 ---
 
 ## 🛠️ Tech Stack & Skills
-**Languages:** Java, JavaScript, SQL, Python  
+**Languages:** Java, JavaScript, SQL  
 **Frontend:** HTML5, CSS3, Tailwind, React.js  
 **Backend:** Node.js, Express.js, Spring Boot, REST APIs, Hibernate, JPA  
 **Databases:** MySQL, MongoDB  
